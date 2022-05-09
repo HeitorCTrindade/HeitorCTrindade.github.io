@@ -1,0 +1,40 @@
+
+body{
+    background-color: #3E7CB1;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+#fotoheitor{
+    border-radius: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.texto_justificado{
+    text-align: justify;                
+}
+  
+.button {
+    backface-visibility: hidden;
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+    text-decoration:none;
+    background: #81A4CD;
+    border-radius: 0px;          
+    padding: 10px 15px 10px 15px;
+    color: #fff;
+    font-weight: 900;
+    font-style: normal
+}
+.estilo_titulo_descricao {
+    font-family: cursive;
+}
+.texto_destacado{
+   color: rgb(43, 226, 52);
+}
