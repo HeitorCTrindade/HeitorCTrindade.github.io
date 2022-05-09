@@ -38,3 +38,27 @@ body{
 .texto_destacado{
    color: rgb(43, 226, 52);
 }
+#skills_facilidade{
+    font-size: 5ch;
+}
+#skills_curiosidade{
+    font-size: 4.5ch;
+}
+#skills_oratoria{
+    font-size: 4ch;
+}
+#skills_aprender{
+    font-size: 3.5ch;
+}
+#skills_dedicacao{
+    font-size: 3ch;
+}
+#skills_assertividade{
+    font-size: 2.5ch;
+}
+#skills_empatia{
+    font-size: 2ch;
+}
+#skills_racionalizacao{
+    font-size: 1.5ch;
+}
